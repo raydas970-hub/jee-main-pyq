@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "subject": "Physics",
+      "topic": "Refractive Index",
+      "question": "Define the refractive index and its significance in optics."
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "Electronegativity",
+      "question": "What is electronegativity and how does it affect chemical bonding?"
+    },
+    {
+      "subject": "Mathematics",
+      "topic": "Limits",
+      "question": "Explain the concept of limits in calculus."
+    },
+    {
+      "subject": "Chemistry",
+      "topic": "Atomic Mass",
+      "question": "How is atomic mass calculated and what are its units?"
+    },
+    {
+      "subject": "Physics",
+      "topic": "Gravity",
+      "question": "What is the law of universal gravitation?"
+    }
+  ]
+}
